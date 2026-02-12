@@ -4,7 +4,7 @@
 
 **Type:** web-app
 **Pattern:** Repository + React Query (Server State Management)
-**Description:** RealWorld Conduit implementation using React, TanStack Query v4, and TypeScript. Follows a layered architecture with clear separation between UI, data fetching, and API communication.
+**Description:** RealWorld Conduit implementation using React 18, TanStack Query v4, and TypeScript. Follows a layered architecture with clear separation between UI, data fetching, and API communication.
 
 ## Critical Rules
 
